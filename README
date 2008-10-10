@@ -1,0 +1,5 @@
+Provides a Rake task that will fetch Lighthouse tickets tagged
+as 'story' and generate RSpec User Stories stubs. This assumes
+your ticket title reads something like "As a ... I want ... so ..."
+
+(Yes — I have not updated this to use the new Cucumber-style features.)
